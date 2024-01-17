@@ -6,12 +6,13 @@
   <li>I am presently acquiring skills in Data Science, Python, and Mathematics and algorithms of machine learning.</li>
 </ul>
 <hr>
-- 📫 How to reach me **sainymishra2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sainy mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sainy mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/sainy_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sainy_17" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/sainy-mishra-71b09a252/" target="_blank">My LinkedIn</a>
+<br>
+<a href="sainymishra2004@gmail.com" target="_blank">Gmail</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
