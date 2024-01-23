@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<a href="sainymishra2004@gmail.com" rel="my gmail">my gmail</a>
+  <br>
 <a href="https://www.linkedin.com/in/sainy-mishra-71b09a252/" target="_blank">My LinkedIn</a>
 <br>
-<a href="sainymishra2004@gmail.com" target="_blank">Gmail</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
