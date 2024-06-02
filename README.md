@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Sainy-Mishra</h1>
+<h1>Hello 👋, I'm Sainy-Mishra</h1>
 
 <h3>An Electronics and Computer Engineering undergraduate with a passion for Data Science, Machine Learning and Artificial Intelligence. My journey is about delving into unruly datasets and mastering algorithms. I also have experience in frontend development, providing a holistic skill set for comprehensive solutions in the world of technology and data-driven insights.</h3>
 
