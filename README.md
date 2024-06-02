@@ -1,9 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sainy-Mishra</h1>
-<h3 align="center">An Electronics and Computer Engineering undergraduate with a passion for Data Science, Machine Learning and Artificial Intelligence. My journey is about delving into unruly datasets and mastering algorithms. I also have experience in frontend development, providing a holistic skill set for comprehensive solutions in the world of technology and data-driven insights.</h3>
+<h1 align="center">Hello 👋, I'm Sainy-Mishra</h1>
+
+<h3>An Electronics and Computer Engineering undergraduate with a passion for Data Science, Machine Learning and Artificial Intelligence. My journey is about delving into unruly datasets and mastering algorithms. I also have experience in frontend development, providing a holistic skill set for comprehensive solutions in the world of technology and data-driven insights.</h3>
+
 <h2><b>About Me</b></h2>
 <ul>
-  <li>🎓I am currently studying Electronics and Computer Engineering at VIT Chennai.</li>
-  <li>I am presently acquiring skills in Data Science, Python, and Mathematics and algorithms of machine learning.</li>
+  <li>🎓 Pursuing Electronics and Computer Engineering at VIT Chennai.</li>
+  <li>👨‍💻 Machine Learning, Artifitial Intelligence and Data Science enthusiast</li>
+  <li>🚀 Using Python for AIML</li>
 </ul>
 <hr>
 
