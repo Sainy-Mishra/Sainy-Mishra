@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <h4>My email: <a href="mailto: sainymishra.1702@gmail.com">sainymishra.1702@gmail.com</a></h4>
-<h4>My linkedIn profile: <a href="https://www.linkedin.com/in/sainy-mishra-71b09a252/" target="_blank">My LinkedIn](https://www.linkedin.com/in/sainy-mishra-71b09a252/</a></h4>
+<h4>My linkedIn profile: <a href="https://www.linkedin.com/in/sainy-mishra-71b09a252/" target="_blank">https://www.linkedin.com/in/sainy-mishra-71b09a252/</a></h4>
 <br>
 </p>
 
