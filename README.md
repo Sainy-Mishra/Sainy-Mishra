@@ -4,9 +4,9 @@ An Electronics and Computer Engineering undergraduate with a passion for Data Sc
 
 <h2><b>About Me</b></h2>
 <ul>
-  <li>🎓 Pursuing Electronics and Computer Engineering at VIT Chennai.</li>
-  <li>👨‍💻 Machine Learning, Artifitial Intelligence and Data Science enthusiast</li>
-  <li>🚀 Using Python for AIML</li>
+  <li>🎓 Pursuing Electronics and Computer Engineering at Vellore Institute of Technology, Chennai.</li>
+  <li>👨‍💻 Machine Learning, Artifitial Intelligence and Data Science enthusiast.</li>
+  <li>🚀 Using Python for AIML.</li>
 </ul>
 <hr>
 
