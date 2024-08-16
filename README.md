@@ -1,6 +1,6 @@
 <h1>Hello 👋, I'm Sainy Mishra</h1>
 
-An Electronics and Computer Engineering undergraduate with a passion for Data Science, Machine Learning, Artificial Intelligence and Deep Learning. My journey is about delving into unruly datasets and mastering algorithms. I also have experience in frontend Development, providing a holistic skill set for comprehensive solutions in the world of technology and data-driven insights.
+A pre-final year Electronics and Computer Engineering undergraduate with a passion for Data Science, Machine Learning, Artificial Intelligence and Deep Learning. My journey is about delving into unruly datasets and mastering algorithms. I also have experience in frontend Development, providing a holistic skill set for comprehensive solutions in the world of technology and data-driven insights.
 
 <h2><b>About Me</b></h2>
 <ul>
