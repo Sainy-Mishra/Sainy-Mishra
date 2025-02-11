@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainy-mishra-71b09a252/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainymishra.1702@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([mailto:sainymishra.1702@gmail.com](https://leetcode.com/u/Sainy-Mishra/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://leetcode.com/u/Sainy-Mishra/)
 
 ---
 # 🏆 Achievements
