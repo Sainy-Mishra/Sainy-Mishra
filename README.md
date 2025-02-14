@@ -68,16 +68,16 @@ over India.
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23E34F26.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
+# 🚀 GitHub Contributions:
 
-# 💊 GitHub Stats:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sainy-Mishra&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api?username=Sainy-Mishra&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sainy-Mishra&theme=tokyonight&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sainy-Mishra&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sainy-Mishra&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sainy-Mishra&theme=tokyonight)
 
----
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sainy-Mishra&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sainy-Mishra&theme=tokyonight&utcOffset=5.5)
 
-[![](https://visitcount.itsvg.in/api?id=Sainy-Mishra&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 🚀 Feel free to explore my repositories and reach out for collaborations!
 
