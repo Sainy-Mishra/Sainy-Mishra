@@ -1,6 +1,6 @@
 <h1>Hello 👋, I'm Sainy Mishra</h1>
 
-🎓 Pre-final year Electronics and Computer Engineering undergraduate at Vellore Institute of Technology, Chennai.<br>
+🎓 Final year Electronics and Computer Engineering undergraduate at Vellore Institute of Technology, Chennai.<br>
 🚀 Passionate about Data Science, Machine Learning, Artificial Intelligence, and Deep Learning.<br>
 💡 Experienced in Frontend Development, bridging technology and data-driven insights.<br>
 🌟 Love working with unruly datasets and mastering algorithms to derive meaningful solutions.<br>
