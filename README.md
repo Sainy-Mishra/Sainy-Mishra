@@ -5,7 +5,6 @@
 💡 Experienced in Frontend Development, bridging technology and data-driven insights.<br>
 🌟 Love working with unruly datasets and mastering algorithms to derive meaningful solutions.<br>
 
----
 
 ## 🌐 Connect with Me:
 
@@ -13,7 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainymishra.1702@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://leetcode.com/u/Sainy-Mishra/)
 
----
 # 🏆 Achievements
 
 1. **Vice President, Mathematics Club** - VIT Chennai: Leading a team to organize events, secure sponsorships, and manage finances.
