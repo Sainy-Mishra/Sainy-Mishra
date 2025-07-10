@@ -5,7 +5,6 @@
 💡 Experienced in Frontend Development, bridging technology and data-driven insights.<br>
 🌟 Love working with unruly datasets and mastering algorithms to derive meaningful solutions.<br>
 
-
 ## 🌐 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainy-mishra-71b09a252/)
@@ -14,13 +13,11 @@
 
 # 🏆 Achievements
 
-1. **Vice President, Mathematics Club** - VIT Chennai: Leading a team to organize events, secure sponsorships, and manage finances.
+1. **Advisory Member, Mathematics Club** - VIT Chennai: Guiding and mentoring the current leadership team after serving as Vice President.  
    
-3. **SIH 2024 Internal Hackathon (VITISH)** - Developed Agricure, a crop disease prediction and management portal, selected among the top 120 teams out of 547.
+2. **SIH 2024 Internal Hackathon (VITISH)** - Developed Agricure, a crop disease prediction and management portal, selected among the top 120 teams out of 547.
    
-5. **Best use of Streamlit award in FROST HACKS Hackathon** - Generated a predictive model for drought and water scarcity in various regions of India using a hybrid SARIMA and XGBOOST
-model. Utilized Google Maps API to display interactive maps, providing detailed geographical insights for more than 50 regions all
-over India.
+3. **Best use of Streamlit award in FROST HACKS Hackathon** - Generated a predictive model for drought and water scarcity in various regions of India using a hybrid SARIMA and XGBOOST model. Utilized Google Maps API to display interactive maps, providing detailed geographical insights for more than 50 regions all over India.
 
 # 💻 Tech Stack:
 
@@ -66,6 +63,7 @@ over India.
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23E34F26.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ---
+
 # 🚀 GitHub Contributions:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sainy-Mishra&theme=tokyonight)
@@ -76,7 +74,5 @@ over India.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sainy-Mishra&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sainy-Mishra&theme=tokyonight&utcOffset=5.5)
 
-
 ### 🚀 Feel free to explore my repositories and reach out for collaborations!
-###  For more details, connect with me on LinkedIn 👍
-
+### For more details, connect with me on LinkedIn 👍
