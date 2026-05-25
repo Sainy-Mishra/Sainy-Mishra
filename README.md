@@ -120,19 +120,8 @@ I'm a **Data Science & ML enthusiast** with hands-on experience building end-to-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sainy-Mishra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sainy-Mishra&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sainy-Mishra&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sainy-Mishra&theme=tokyonight" />
-</p>
-
----
 
 <p align="center">
   <i>Open to entry-level Data Scientist & Data Analyst roles — let's build something impactful together! 🚀</i><br><br>
