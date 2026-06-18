@@ -16,6 +16,7 @@
 ## 🧠 About Me
 
 🎓 **B.Tech in Electronics & Computer Engineering** — Vellore Institute of Technology, Chennai 2022-2026
+<br>
 📍 Delhi, India  
 📄 **IEEE Published** — *Binary Bits Tech Blog Platform*, IEEE i-PACT 2025, deployed on AWS  
 🏅 **Microsoft Certified** — Azure AI-900 & Power BI Data Analyst  
