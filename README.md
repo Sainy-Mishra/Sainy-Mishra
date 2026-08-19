@@ -120,13 +120,12 @@ I'm a **Data Science & ML enthusiast** with hands-on experience building end-to-
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sainy-Mishra&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <i>Open to entry-level Data Scientist & Data Analyst roles — let's build something impactful together! 🚀</i><br><br>
-  <a href="https://www.linkedin.com/in/sainy-mishra-71b09a252/"><img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <i>Open to entry-level Data Scientist & Data Analyst roles — let's build something impactful together! 🚀</i>
+  <br><br>
+  <a href="https://www.linkedin.com/in/sainy-mishra-71b09a252/">
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
