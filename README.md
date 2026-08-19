@@ -20,6 +20,7 @@
 📍 Delhi, India  
 📄 **IEEE Published** — *Binary Bits Tech Blog Platform*, IEEE i-PACT 2024, deployed on AWS  
 🏅 **Microsoft Certified** — Azure AI-900 & Power BI Data Analyst  
+📊 **Microsoft Certified** - Azure Databricks Data Engineer Associate
 
 I'm a **Data Science & ML enthusiast** with hands-on experience building end-to-end ML pipelines, NLP/Computer Vision models, LLM-powered systems, and interactive Power BI dashboards. I've delivered **15–25% performance improvements** across independent projects and love turning messy datasets into meaningful insights.
 
@@ -106,6 +107,7 @@ I'm a **Data Science & ML enthusiast** with hands-on experience building end-to-
 | 🌾 **SIH 2024 (VITISH)** | Top 120 out of 547 teams — AgriCure Portal |
 | 💻 **LeetCode** | 100+ problems solved |
 | 🎓 **Udemy** | Machine Learning A-Z & AI/ML Data Science Bootcamp |
+| 👏 **Microsoft Certified: Azure Databricks Data Engineer Associate** | Professional Certificate |
 
 ---
 
