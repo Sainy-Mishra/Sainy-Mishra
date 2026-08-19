@@ -18,7 +18,7 @@
 🎓 **B.Tech in Electronics & Computer Engineering** — Vellore Institute of Technology, Chennai 2022-2026
 <br>
 📍 Delhi, India  
-📄 **IEEE Published** — *Binary Bits Tech Blog Platform*, IEEE i-PACT 2025, deployed on AWS  
+📄 **IEEE Published** — *Binary Bits Tech Blog Platform*, IEEE i-PACT 2024, deployed on AWS  
 🏅 **Microsoft Certified** — Azure AI-900 & Power BI Data Analyst  
 
 I'm a **Data Science & ML enthusiast** with hands-on experience building end-to-end ML pipelines, NLP/Computer Vision models, LLM-powered systems, and interactive Power BI dashboards. I've delivered **15–25% performance improvements** across independent projects and love turning messy datasets into meaningful insights.
